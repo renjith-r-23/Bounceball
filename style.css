@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  
+  
+  border: 6px solid #ccd272;
+}
+
+html {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  height: 100%;
+}
+
+body {
+  overflow: hidden;
+  height: inherit;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: -2px;
+  position: absolute;
+  margin: 0;
+  top: 4px;
+  bottom: 10px;
+
+  color: transparent;
+  text-shadow: 0 0 4px rgb(140, 207, 109);
+}
